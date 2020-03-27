@@ -7,3 +7,6 @@ you can run it on your PC too , run game.py
 
 The Rock Paper Scissors Icons source :
 https://opengameart.org/content/rock-paper-scissors-icons
+
+The game modes comes from here :
+https://github.com/goelp14/RockPaperScissors
