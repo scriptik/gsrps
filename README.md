@@ -14,3 +14,4 @@ https://github.com/goelp14/RockPaperScissors
 # ToDo-List
 - [ ] Add another modes : Intermediate , Expert
 - [ ] Add Server Client feature
+- [ ] Add Sound effect
